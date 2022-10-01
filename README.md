@@ -1,4 +1,4 @@
-# typed_vue3-_reactivity
+## typed_vue3_reactivity
 ## Made with a proposal for studies and practice
 
 ### Compiles and hot-reloads for development
